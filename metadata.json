@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Inventory & Demand Analytics",
+  "description": "Interactive prototype and Knowledge Demonstration Report dashboard for Inventory Optimization Using Predictive Data Analytics (ARIMA/SARIMA, EDA, and Regional Margin Intelligence).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
